@@ -1,4 +1,7 @@
-# Members - Tooling Subcommittee
+---
+position: 2
+---
+# Members
 
 - Tony Aiello (AdaCore)
 - Jordan McQueen (Woven by Toyota)
@@ -23,8 +26,4 @@
 - Felix Gilcher (Ferrous Systems)
 - Espen Albrektsen (Sonair AS)
 - Pete LeVasseur (Woven by Toyota)
-- Paul Sastrasinh
-- Stephen Hedrick (AdaCore)
-- Joe Johnson
-- Antoshkin Mikhail
 - Alexandru Radovici (Moderator)
